@@ -14,6 +14,8 @@ I have experience in Javascript, Node JS, Express, C#, PHP, HTML, CSS, Java, and
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg"  title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"  title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+
+Projects I've worked on include Madison City ReadyFest, ScholaRPG, Rocket Harmony: Huntsville’s Premier A Capella Group, Wasatch Back Doula, Sparkman Choir, Homeschool Hub, Draughts of Doom: A Board Game Café, and a few games like Farkle and Racko.
     
 Let's Connect! <br>
 <a href="https://www.linkedin.com/in/nanci-newell/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"  title="LinkedIn" alt="LinkedIn" width="40" height="40"/> </a>
