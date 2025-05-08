@@ -4,7 +4,7 @@ I'm Nanci Newell, a student at Brigham Young University- Idaho interested in web
 
 I'm currently earning a certificate in software development to fulfill my electives and finish my Bachelor's degree in Applied Technology. On my journey, I have also earned certificates in Web Media, Web Frontend, Web Backend, Databases, and Graphic Design. 
 
-I have experience in Javascript, Node JS, Express, C#, PHP, HTML, CSS, Java, and MySQL.  
+I have experience in Javascript, Node JS, Express, C#, PHP, HTML, CSS, Java, and MySQL.  </br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>
