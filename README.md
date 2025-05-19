@@ -20,9 +20,9 @@ Projects I've worked on include:
     <br>Madison City ReadyFest: Designed website to provide emergency preparedness information from sponsors of Madison Readyfest as well as Readyfest information to citizens of Madison, Alabama. 
     <br>Sparkman Choir: Designed to provide information to choir members including audio files, sheet music, schedule, etc. 
     <br>Homeschool Hub: Designed to provide study materials and quizzes to homeschool students.
-<br>Interactive Games (HTML, CSS, Javascript)
+<br><br>Interactive Games (HTML, CSS, Javascript)
     <br>Farkle, Racko
-<br>Ongoing (HTML, CSS, Javascript, NodeJS, ExpressJS)
+<br><br>Ongoing (HTML, CSS, Javascript, NodeJS, ExpressJS)
     <br>- ScholaRPG site to gamify review quizzes for students.
     <br>- Ongoing project to upgrade to more fully gamified experience with avatars that level up based on school related activities.
     
