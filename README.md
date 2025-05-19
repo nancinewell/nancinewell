@@ -16,15 +16,15 @@ I have experience in Javascript, Node JS, Express, C#, PHP, HTML, CSS, Java, and
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"  title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 
 Projects I've worked on include: 
-Informational Sites (HTML, CSS, Javascript)
-    Madison City ReadyFest: Designed website to provide emergency preparedness information from sponsors of Madison Readyfest as well as Readyfest information to citizens of Madison, Alabama. 
-    Sparkman Choir: Designed to provide information to choir members including audio files, sheet music, schedule, etc. 
-    Homeschool Hub: Designed to provide study materials and quizzes to homeschool students.
-Interactive Games (HTML, CSS, Javascript)
-    Farkle, Racko
-Ongoing (HTML, CSS, Javascript, NodeJS, ExpressJS)
-    - ScholaRPG site to gamify review quizzes for students.
-    - Ongoing project to upgrade to more fully gamified experience with avatars that level up based on school related activities.
+<br>Informational Sites (HTML, CSS, Javascript)
+    <br>Madison City ReadyFest: Designed website to provide emergency preparedness information from sponsors of Madison Readyfest as well as Readyfest information to citizens of Madison, Alabama. 
+    <br>Sparkman Choir: Designed to provide information to choir members including audio files, sheet music, schedule, etc. 
+    <br>Homeschool Hub: Designed to provide study materials and quizzes to homeschool students.
+<br>Interactive Games (HTML, CSS, Javascript)
+    <br>Farkle, Racko
+<br>Ongoing (HTML, CSS, Javascript, NodeJS, ExpressJS)
+    <br>- ScholaRPG site to gamify review quizzes for students.
+    <br>- Ongoing project to upgrade to more fully gamified experience with avatars that level up based on school related activities.
     
 Let's Connect! <br>
 <a href="https://www.linkedin.com/in/nanci-newell/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"  title="LinkedIn" alt="LinkedIn" width="40" height="40"/> </a>
