@@ -15,21 +15,17 @@ I have experience in Javascript, Node JS, Express, C#, PHP, HTML, CSS, Java, and
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg"  title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"  title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 
-Projects I've worked on include Madison City ReadyFest, ScholaRPG, Rocket Harmony: Huntsville’s Premier A Capella Group, Wasatch Back Doula, Sparkman Choir, Homeschool Hub, Draughts of Doom: A Board Game Café, and a few games like Farkle and Racko.
+Projects I've worked on include: 
+Informational Sites (HTML, CSS, Javascript)
+    Madison City ReadyFest: Designed website to provide emergency preparedness information from sponsors of Madison Readyfest as well as Readyfest information to citizens of Madison, Alabama. 
+    Sparkman Choir: Designed to provide information to choir members including audio files, sheet music, schedule, etc. 
+    Homeschool Hub: Designed to provide study materials and quizzes to homeschool students.
+Interactive Games (HTML, CSS, Javascript)
+    Farkle, Racko
+Ongoing (HTML, CSS, Javascript, NodeJS, ExpressJS)
+    - ScholaRPG site to gamify review quizzes for students.
+    - Ongoing project to upgrade to more fully gamified experience with avatars that level up based on school related activities.
     
 Let's Connect! <br>
 <a href="https://www.linkedin.com/in/nanci-newell/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"  title="LinkedIn" alt="LinkedIn" width="40" height="40"/> </a>
 <!--
-**nancinewell/nancinewell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
